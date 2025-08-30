@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="aplicaciones_moviles">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/actividad1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/clase26_08.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tempCodeRunnerFile.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
